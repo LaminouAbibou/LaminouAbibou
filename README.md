@@ -1,13 +1,10 @@
 ## Summary
->LAMINOU Abibou,  student in Cybersecurity at IFRI of the University of Abomey-Calavi. 
->My interests are Web development, Artificial Intelligence.
+LAMINOU Abibou,  student in Cybersecurity at IFRI of the University of Abomey-Calavi. 
+My interests are Web development, Artificial Intelligence.
 ## Technologies
-### Programmation Language: 
-HTML, CSS, Python 
-### Versionning tool: 
-Git
-### Operating System:
-Kali Linux
+Programmation Language: HTML, CSS, Python 
+Versionning tool: Git
+Operating System:Kali Linux
 ## Social links
 Facebook: Mohamned Dossou Habib
 Instagram:https://www.instagram.com/abiboulaminou/
